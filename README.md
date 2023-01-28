@@ -12,7 +12,9 @@
 ---
 
 ### 👨‍💻 About me:
+  - 🔭 I am currently not working but I am looking for
   - 🌱 I’m currently learning **Node.js, Backend**
+  - ⚡ I like programming and software architecture
 
 <div aling="left">
   <h3>🔨 Languages and Tools:</h3/
