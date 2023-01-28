@@ -14,7 +14,7 @@
 ### 👨‍💻 About me:
   - 🔭 I am currently not working but I am looking for
   - 🌱 I’m currently learning **Node.js, Backend**
-  - ⚡ I like programming and software architecture
+  - ⚡ I enjoy programming as well as software architecture and database design
 
 <div aling="left">
   <h3>🔨 Languages and Tools:</h3/
