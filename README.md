@@ -1,13 +1,13 @@
-<img width="105" align="right" alt="Github" src="https://media.npr.org/assets/img/2023/01/14/this-is-fine_sq-0bd6d8072e991dc4708be3668cd480ae7df18a11-s800-c85.jpg" />
-<div id="header">
+<img width="207" align="right" alt="Github" src="https://media.npr.org/assets/img/2023/01/14/this-is-fine_sq-0bd6d8072e991dc4708be3668cd480ae7df18a11-s800-c85.jpg" />
+
   
-  <h3>Hi 👋, I'm Valentin Richter</h3>
+  # Hi 👋, I'm Valentin Richter
+  ## I am a systems student at Uni. Nac. of General Sarmiento.
   
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/valrichter)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valrichter)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:valenrichter11@gmail.com)
   
-</div>
 
 ---
 
