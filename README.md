@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About me:
   - 🔭 I am currently not working but I am looking for
-  - 🌱 I’m currently learning **Node.js, Backend**
+  - 🌱 I’m currently learning **Node.js, Spring Boot, Backend**
   - ⚡ I enjoy programming as well as software architecture and database design
   - 🤍 First solve the problem, then write the code 
 
