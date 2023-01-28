@@ -2,7 +2,7 @@
 
   
   # Hi 👋, I'm Valen
-  ## I am a systems student at Uni. Nac. of General Sarmiento.
+  ## I am a systems student at Uni. Nac. of General Sarmiento
   
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/valrichter)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valrichter)
