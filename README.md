@@ -13,13 +13,20 @@
 
 ### 👨‍💻 About me:
   - 🌱 I’m currently learning **Node.js, Backend**
-  - 💻 All of my projects are available at [github.com](github.com/valrichter)
-  - 📫 How to reach me **valenrichter11@gmail.com** or [linkedin](https://linkedin.com/in/valrichter)
 
 <div aling="left">
   <h3>🔨 Languages and Tools:</h3/
     <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" />
+    <img id="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" />
+    <img id="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" />
+    <img id="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" />
+    <img id="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" />
+    <img id="expresjs" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" />
+    <img id="go" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" />
+    <img id="postgresql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" />
+    <img id="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" />
+    <img id="vscode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" />
+    <img id="jira" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="40" />
+    <img id="linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" />
     </div>
 </div>
