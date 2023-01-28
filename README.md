@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Valentin</h1>
 <h3 align="center">I am a systems student from Argetina</h3>
 
-- 👨‍💻 All of my projects are available [here](github.com/valrichter/)
+- 🌱 I’m currently learning **Node.js**
+
+- 👨‍💻 All of my projects are available at [github.com/valrichter](github.com/valrichter)
 
 - 📫 How to reach me **valenrichter11@gmail.com**
 
