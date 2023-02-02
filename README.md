@@ -11,6 +11,8 @@
 
 ---
 
+<img width="185" align="right" alt="Github" src="https://user-images.githubusercontent.com/67121197/216337849-5707236c-9d99-4d38-8b1e-7610065d1e25.png" />
+
 ### 👨‍💻 About me:
   - 🔭 I am currently not working but I am looking for
   - 🌱 I’m currently learning **Node.js, Backend**
