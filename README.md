@@ -26,7 +26,6 @@
     <img id="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" />
     <img id="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" />
     <img id="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" />
-    <img id="expresjs" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" />
     <img id="go" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" />
     <img id="postgresql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" />
     <img id="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" />
