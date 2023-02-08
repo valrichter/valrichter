@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About me:
   - 🔭 I am currently not working but I am looking for
-  - 🌱 I’m currently learning **Node.js**
+  - 🌱 I’m currently learning **Node.js & NestJS**
   - ⚡ I enjoy programming as well as software architecture and database design
   - 🤍 First solve the problem, then write the code 
 
