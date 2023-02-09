@@ -1,5 +1,4 @@
 <img width="185" align="right" alt="Github" src="https://media.npr.org/assets/img/2023/01/14/this-is-fine_sq-0bd6d8072e991dc4708be3668cd480ae7df18a11-s800-c85.jpg" />
-
   
   # Hi 👋, I'm Valen
   ## I'm a systems student at Uni. Nac. of General Sarmiento
@@ -8,10 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valrichter)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:valenrichter11@gmail.com)
   
-
 ---
-
-<img width="185" align="right" alt="Github" src="https://user-images.githubusercontent.com/67121197/216337849-5707236c-9d99-4d38-8b1e-7610065d1e25.png" />
 
 ### 👨‍💻 About me:
   - 🔭 I am currently not working but I am looking for
