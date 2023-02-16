@@ -24,6 +24,7 @@
     <img id="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" />
     <img id="go" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40" />
     <img id="postgresql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" />
+    <img id="mongodb" src="    https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" />
     <img id="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" />
     <img id="vscode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" />
     <img id="jira" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="40" />
