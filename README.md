@@ -20,7 +20,6 @@
     <div>
     <img id="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" />
     <img id="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" />
-    <img id="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" />
     <img id="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" />
     <img id="express" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" />
     <img id="postgresql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" />
