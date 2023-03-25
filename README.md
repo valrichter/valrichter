@@ -28,5 +28,7 @@
     <img id="vscode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" />
     <img id="jira" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="40" />
     <img id="linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" />
+    <img id="nest" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width="40" />
+    <img id="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40" />
     </div>
 </div>
