@@ -21,14 +21,14 @@
     <img id="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" />
     <img id="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" />
     <img id="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" />
+    <img id="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40" />
     <img id="express" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" />
+    <img id="nest" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width="40" />
     <img id="postgresql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" />
     <img id="mongodb" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" />
     <img id="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" />
     <img id="vscode" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" />
     <img id="jira" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="40" />
     <img id="linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" />
-    <img id="nest" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width="40" />
-    <img id="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="40" />
     </div>
 </div>
