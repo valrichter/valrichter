@@ -13,16 +13,25 @@
 <div aling="left">
 <h3>🔨 Languages & Tools:</h3/
   <div>
-  <img id="python" src="https://devicon-website.vercel.app/api/python/original.svg" width="40" />
-  <img id="java" src="https://devicon-website.vercel.app/api/java/original.svg" width="40" />
-  <img id="nodejs" src="https://devicon-website.vercel.app/api/nodejs/original.svg" width="40" />
-  <img id="typescript" src="https://devicon-website.vercel.app/api/typescript/original.svg" width="40" />
+  <img id="python" src="https://devicon-website.vercel.app/api/python/plain-wordmark.svg" width="40" />
+  
+  <img id="java" src="https://devicon-website.vercel.app/api/java/plain-wordmark.svg" width="40" />
+  
+  <img id="nodejs" src="https://devicon-website.vercel.app/api/nodejs/plain.svg" width="40" />
   <img id="express" src="https://devicon-website.vercel.app/api/express/original.svg" width="40" />
+  
+  <img id="typescript" src="https://devicon-website.vercel.app/api/typescript/plain.svg" width="40" />
   <img id="nestjs" src="https://devicon-website.vercel.app/api/nestjs/plain.svg" width="40" />
-  <img id="postgresql" src="https://devicon-website.vercel.app/api/postgresql/original.svg" width="40" />
-  <img id="mongodb" src="https://devicon-website.vercel.app/api/mongodb/original.svg" width="40" />
-  <img id="git" src="https://devicon-website.vercel.app/api/git/original.svg" width="40" />
-  <img id="github" src="https://devicon-website.vercel.app/api/github/original.svg" width="40" >
-  <img id="ubuntu" src="https://devicon-website.vercel.app/api/ubuntu/plain.svg" width="40" />
+
+  <img id="go" src="https://devicon-website.vercel.app/api/go/plain.svg?color=%2300ACD7" width="40" />
+  
+  <img id="mongodb" src="https://devicon-website.vercel.app/api/mongodb/plain-wordmark.svg" width="40" />
+  <img id="postgresql" src="https://devicon-website.vercel.app/api/postgresql/plain-wordmark.svg" width="40" />
+
+  <img id="docker" src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" width="40" />
+  
+  <img id="git" src="https://devicon-website.vercel.app/api/git/plain-wordmark.svg" width="40" />
+  <img id="github" src="https://devicon-website.vercel.app/api/github/original-wordmark.svg" width="40" >
+  <img id="ubuntu" src="https://devicon-website.vercel.app/api/ubuntu/plain-wordmark.svg" width="40" />
   </div>
 </div>
