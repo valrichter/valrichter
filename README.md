@@ -5,7 +5,7 @@
 ## 💻 Backend Developer 
 
 ### 👾 About me:  
-- 🔭 I'm not working but I am looking for one  
+- 💼 I'm not working but I am looking for one  
 - 🌱 I’m currently learning **Go & Node.js**  
 - ⚡ I enjoy programming, software architecture and database design  
 - 🤍 First solve the problem, then write the code  
