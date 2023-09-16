@@ -18,9 +18,6 @@
   <img id="java" src="https://devicon-website.vercel.app/api/java/plain.svg" width="40" />
   
   <img id="nodejs" src="https://devicon-website.vercel.app/api/nodejs/plain.svg" width="40" />
-  <img id="express" src="https://devicon-website.vercel.app/api/express/original.svg?color=%237A7A7A" width="40" />
-  
-  <img id="typescript" src="https://devicon-website.vercel.app/api/typescript/plain.svg" width="40" />
   <img id="nestjs" src="https://devicon-website.vercel.app/api/nestjs/plain.svg" width="40" />
 
   <img id="go" src="https://devicon-website.vercel.app/api/go/plain.svg?color=%2300ACD7" width="40" />
