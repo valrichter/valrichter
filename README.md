@@ -21,6 +21,7 @@
   <img id="nestjs" src="https://devicon-website.vercel.app/api/nestjs/plain.svg" width="40" />
 
   <img id="go" src="https://devicon-website.vercel.app/api/go/plain.svg?color=%2300ACD7" width="40" />
+  <img id="gin" src="https://github.com/gin-gonic/logo/blob/master/color.png" width="40" />
 
   <img id="postgresql" src="https://devicon-website.vercel.app/api/postgresql/plain.svg" width="40" />
   <img id="mongodb" src="https://devicon-website.vercel.app/api/mongodb/plain.svg" width="40" />
