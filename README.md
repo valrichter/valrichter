@@ -28,7 +28,7 @@
   <img id="docker" src="https://devicon-website.vercel.app/api/docker/plain.svg" width="40" />
   
   <img id="git" src="https://devicon-website.vercel.app/api/git/plain.svg" width="40" />
-  <img id="git" src="https://devicon-website.vercel.app/api/github/original.svg" width="40" />
+  <img id="git" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23767676" width="40" />
   <img id="ubuntu" src="https://devicon-website.vercel.app/api/ubuntu/plain.svg" width="40" />
   </div>
 </div>
