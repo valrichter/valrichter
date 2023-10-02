@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Valen
 ## 🎓 Studying systems at Uni. of General Sarmiento
-## 💻 Backend Developer 
+## 💻 Focus on back-end development 
 
 ### 👾 About me:  
 - 💼 I'm not working but I am looking for one  
