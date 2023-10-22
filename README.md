@@ -26,6 +26,7 @@
   <img id="mongodb" src="https://devicon-website.vercel.app/api/mongodb/plain.svg" width="40" />
 
   <img id="docker" src="https://devicon-website.vercel.app/api/docker/plain.svg" width="40" />
+  <img id="kubernetes" src="https://devicon-website.vercel.app/api/kubernetes/plain.svg" width="40"></img>
   <img id="aws" src="https://devicon-website.vercel.app/api/amazonwebservices/original.svg" width="40">
   
   <img id="git" src="https://devicon-website.vercel.app/api/git/plain.svg" width="40" />
