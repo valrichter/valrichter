@@ -6,7 +6,7 @@
 
 ### 👾 About me:  
 - 💼 I'm not working but I am looking for one  
-- 🌱 I’m currently learning **Go & Node.js**  
+- 🌱 I’m currently learning **Java & Go**  
 - ⚡ I enjoy programming
 - 🤍 First solve the problem, then write the code  
 
