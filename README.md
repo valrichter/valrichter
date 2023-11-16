@@ -14,23 +14,23 @@
 <h3>🔨 Languages & Tools:</h3/
   <div>
   <img id="python" src="https://devicon-website.vercel.app/api/python/plain.svg" width="40" />
-  
   <img id="java" src="https://devicon-website.vercel.app/api/java/plain.svg" width="40" />
-  
-  <img id="nodejs" src="https://devicon-website.vercel.app/api/nodejs/plain.svg" width="40" />
-  <img id="nestjs" src="https://devicon-website.vercel.app/api/nestjs/plain.svg" width="40" />
-
   <img id="go" src="https://devicon-website.vercel.app/api/go/plain.svg?color=%2300ACD7" width="40" />
+  <img id="nodejs" src="https://devicon-website.vercel.app/api/nodejs/plain.svg" width="40" />
+
+  <img id="nestjs" src="https://devicon-website.vercel.app/api/nestjs/plain.svg" width="40" />
   
   <img id="postgresql" src="https://devicon-website.vercel.app/api/postgresql/plain.svg" width="40" />
   <img id="mongodb" src="https://devicon-website.vercel.app/api/mongodb/plain.svg" width="40" />
 
   <img id="docker" src="https://devicon-website.vercel.app/api/docker/plain.svg" width="40" />
   <img id="kubernetes" src="https://devicon-website.vercel.app/api/kubernetes/plain.svg" width="40"></img>
+  
   <img id="aws" src="https://devicon-website.vercel.app/api/amazonwebservices/original.svg" width="40">
   
   <img id="git" src="https://devicon-website.vercel.app/api/git/plain.svg" width="40" />
-  <img id="git" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23767676" width="40" />
+  <img id="github" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23767676" width="40" />
+  
   <img id="ubuntu" src="https://devicon-website.vercel.app/api/ubuntu/plain.svg" width="40" />
   </div>
 </div>
