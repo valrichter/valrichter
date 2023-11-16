@@ -31,6 +31,6 @@
   <img id="git" src="https://devicon-website.vercel.app/api/git/plain.svg" width="40" />
   <img id="github" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" width="40" />
   
-  <img id="ubuntu" src="https://devicon-website.vercel.app/api/linux/plain.svg?color=%23767676" width="40" />
+  <img id="ubuntu" src="https://devicon-website.vercel.app/api/linux/plain.svg?color=%23777777" width="40" />
   </div>
 </div>
