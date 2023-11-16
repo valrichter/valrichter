@@ -11,7 +11,7 @@
 - 🤍 First solve the problem, then write the code  
 
 <div aling="left">
-<h3>🔨 Languages & Tools:</h3/
+<h3>🛠️ Languages & Tools:</h3/
   <div>
   <img id="java" src="https://devicon-website.vercel.app/api/java/plain.svg" width="40" />
   <img id="go" src="https://devicon-website.vercel.app/api/go/plain.svg?color=%2300ACD7" width="40" />
