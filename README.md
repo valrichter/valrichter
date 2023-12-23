@@ -1,6 +1,6 @@
 <img width="186" align="right" alt="Github" src="https://media.npr.org/assets/img/2023/01/14/this-is-fine_sq-0bd6d8072e991dc4708be3668cd480ae7df18a11-s800-c85.jpg" />
 
-# 👋 Hi, I'm Valen <a href="https://www.linkedin.com/in/valrichter" target="blank"><img id="linkedin" width="30" src="https://devicon-website.vercel.app/api/linkedin/plain.svg?color=%230076B2" /></a>
+# 👋 Hi, I'm Valen
 ## 💻 Focused on Backend development 
 ## 🎓 CS Student at Uni. of General Sarmiento
 
