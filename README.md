@@ -1,17 +1,16 @@
 <img width="186" align="right" alt="Github" src="https://media.npr.org/assets/img/2023/01/14/this-is-fine_sq-0bd6d8072e991dc4708be3668cd480ae7df18a11-s800-c85.jpg" />
 
-# 👋 Hi, I'm Valen
+# 👋 Hi, I'm Valen [![LinkedIn](https://devicon-website.vercel.app/api/linkedin/plain.svg?color=%230076B2)](URL_de_tu_perfil_de_LinkedIn)
 ## 💻 Focused on Backend development 
 ## 🎓 CS Student at Uni. of General Sarmiento
 
 ### 👾 About me:  
 - 💼 I'm not working but I am looking for one  
 - 🌱 I’m currently learning **Java & Go**  
-- ⚡ I enjoy programming
+- ⚡ I'm open to collaborating on **Node & Rust** proyects
 - 🤍 First solve the problem, then write the code  
 
-<div aling="left">
-<h3>🛠️ Languages & Tools:</h3/
+### 🛠️ Languages & Tools:
   <div>
   <img id="java" width="45" src="https://devicon-website.vercel.app/api/java/plain.svg?color=%23EA2D2E" />
   <img id="go" width="45" src="https://devicon-website.vercel.app/api/go/plain.svg?color=%2300ACD7" />
@@ -37,4 +36,7 @@
   
   <img id="linux" width="45" src="https://devicon-website.vercel.app/api/linux/plain.svg?color=%23777777" />
   </div>
-</div>
+  
+### 🦄 My GitHub Stats
+
+<a href="http://www.github.com/valrichter"><img src="https://github-readme-stats.vercel.app/api?username=valrichter&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="valrichter's GitHub stats" /></a>
