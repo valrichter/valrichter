@@ -1,8 +1,8 @@
 <img width="186" align="right" alt="Github" src="https://media.npr.org/assets/img/2023/01/14/this-is-fine_sq-0bd6d8072e991dc4708be3668cd480ae7df18a11-s800-c85.jpg" />
 
 # 👋 Hi, I'm Valen
-## 🎓 Studying systems at Uni. of General Sarmiento
-## 💻 Focused on back-end development 
+## 💻 Focused on Backend development 
+## 🎓 CS Student at Uni. of General Sarmiento
 
 ### 👾 About me:  
 - 💼 I'm not working but I am looking for one  
