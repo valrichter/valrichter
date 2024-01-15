@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Valen
 ## 💻 Focused on Backend development 
-## 👨‍🎓 [CS Student at Uni. of General Sarmiento](https://github.com/stars/valrichter/lists/projectos-de-la-carrera)
+## 👨‍🎓 CS Student at Uni. of General Sarmiento
 
 ### 👾 About me:  
 - 💼 I'm not working but I am looking for one  
