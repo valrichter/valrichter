@@ -2,14 +2,13 @@
 
 # 👋 Hi, I'm Valen
 ## 💻 Focused on Backend development 
-## 👨‍🎓 CS Student at Uni. of General Sarmiento
+## 🎓 [CS Student at Uni. of General Sarmiento] (https://github.com/stars/valrichter/lists/projectos-de-la-carrera)
 
 ### 👾 About me:  
 - 💼 I'm not working but I am looking for one  
 - 🌱 I’m currently learning **Java & Go**  
 - ⚡ I'm open to collaborating on **Node & Rust** proyects
 - 🤍 First solve the problem, then write the code
-- 🎓 [All bachelor projects](https://github.com/stars/valrichter/lists/projectos-de-la-carrera)
 
 ### 🛠️ Languages & Tools:
   <div>
