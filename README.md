@@ -15,12 +15,11 @@
   <div>
   <img id="java" width="45" src="https://devicon-website.vercel.app/api/java/plain.svg?color=%23EA2D2E" />
   <img id="go" width="45" src="https://devicon-website.vercel.app/api/go/plain.svg?color=%2300ACD7" />
-  <img id="python" width="45" src="https://devicon-website.vercel.app/api/python/plain.svg?color=%23FFD845" />
   <img id="node" width="45" src="https://devicon-website.vercel.app/api/nodejs/plain.svg?color=%2383CD29" />
+  <img id="python" width="45" src="https://devicon-website.vercel.app/api/python/plain.svg?color=%23FFD845" />
 
-  <img id="express" width="45" src="https://devicon-website.vercel.app/api/express/original.svg?color=%23444444" />
+  <img id="spring" width="45" src="https://devicon-website.vercel.app/api/spring/plain.svg?color=%235FB832" />
   <img id="nestjs" width="45" src="https://devicon-website.vercel.app/api/nestjs/plain.svg?color=%23DF234F" />
-
 
   <img id="postgresql" width="45" src="https://devicon-website.vercel.app/api/postgresql/plain.svg?color=%23336791" />
   <img id="mongodb" width="45" src="https://devicon-website.vercel.app/api/mongodb/plain.svg?color=%234FAA41" />
