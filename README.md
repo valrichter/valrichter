@@ -19,6 +19,7 @@
   <img id="python" width="45" src="https://devicon-website.vercel.app/api/python/plain.svg?color=%23FFD845" />
 
   <img id="spring" width="45" src="https://devicon-website.vercel.app/api/spring/plain.svg?color=%235FB832" />
+  <img id="express" width="45" src="https://devicon-website.vercel.app/api/express/original.svg?color=%23444444" />
   <img id="nestjs" width="45" src="https://devicon-website.vercel.app/api/nestjs/plain.svg?color=%23DF234F" />
 
   <img id="postgresql" width="45" src="https://devicon-website.vercel.app/api/postgresql/plain.svg?color=%23336791" />
