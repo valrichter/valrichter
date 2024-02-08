@@ -8,7 +8,7 @@
 - 💼 I'm not working but I am looking for one  
 - 🌱 I’m currently learning **Java & Go**  
 - ⚡ I'm open to collaborating on **Node & Rust** proyects
-- 🤍 First solve the problem, then write the code
+- 🎯 First solve the problem, then write the code
 - 🎓 [All bachelor proyects](https://github.com/stars/valrichter/lists/projectos-de-la-carrera)
 
 ### 🛠️ Languages & Tools:
