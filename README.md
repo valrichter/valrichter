@@ -15,17 +15,15 @@
   <div>
   <img alt="java" width="45" src="https://devicon-website.vercel.app/api/java/plain.svg?color=%23EA2D2E" />
   <img alt="go" width="45" src="https://devicon-website.vercel.app/api/go/plain.svg?color=%2300ACD7" />
+  <img alt="rust" width="45" src="https://devicon-website.vercel.app/api/rust/plain.svg?color=%23FF6B00" />
   <img alt="node" width="45" src="https://devicon-website.vercel.app/api/nodejs/plain.svg?color=%2383CD29" />
-  <img alt="python" width="45" src="https://devicon-website.vercel.app/api/python/plain.svg?color=%23FFD845" />
 
+  <img alt="nextjs" width="45" src="https://devicon-website.vercel.app/api/nextjs/original.svg?color=%23000000" />
   <img alt="spring" width="45" src="https://devicon-website.vercel.app/api/spring/plain.svg?color=%235FB832" />
-  <img alt="express" width="45" src="https://devicon-website.vercel.app/api/express/original.svg?color=%23444444" />
-  <img alt="nestjs" width="45" src="https://devicon-website.vercel.app/api/nestjs/plain.svg?color=%23DF234F" />
 
   <img alt="postgresql" width="45" src="https://devicon-website.vercel.app/api/postgresql/plain.svg?color=%23336791" />
   <img alt="mongodb" width="45" src="https://devicon-website.vercel.app/api/mongodb/plain.svg?color=%234FAA41" />
   <img alt="redis" width="45" src="https://devicon-website.vercel.app/api/redis/plain.svg?color=%23D82C20" />
-
 
   <img alt="docker" width="45" src="https://devicon-website.vercel.app/api/docker/plain.svg?color=%23019BC6" />
   <img alt="kubernetes" width="45" src="https://devicon-website.vercel.app/api/kubernetes/plain.svg?color=%23486BB3" />
