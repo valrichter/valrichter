@@ -18,7 +18,7 @@
   <img alt="rust" width="45" src="https://devicon-website.vercel.app/api/rust/plain.svg?color=%23FF6B00" />
   <img alt="node" width="45" src="https://devicon-website.vercel.app/api/nodejs/plain.svg?color=%2383CD29" />
 
-  <img alt="nextjs" width="45" src="https://devicon-website.vercel.app/api/react/original.svg?color=%2361DAFB" />
+  <img alt="nextjs" width="45" src="https://devicon-website.vercel.app/api/nextjs/original.svg?color=%232F2F2F" />
   <img alt="spring" width="45" src="https://devicon-website.vercel.app/api/spring/plain.svg?color=%235FB832" />
 
   <img alt="postgresql" width="45" src="https://devicon-website.vercel.app/api/postgresql/plain.svg?color=%23336791" />
