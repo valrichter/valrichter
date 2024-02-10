@@ -20,6 +20,7 @@
 
   <img alt="nextjs" width="45" src="https://devicon-website.vercel.app/api/nextjs/original.svg?color=%232F2F2F" />
   <img alt="spring" width="45" src="https://devicon-website.vercel.app/api/spring/plain.svg?color=%235FB832" />
+  <img alt="nestjs" width="45" src="https://devicon-website.vercel.app/api/nestjs/plain.svg?color=%23DF234F">
 
   <img alt="postgresql" width="45" src="https://devicon-website.vercel.app/api/postgresql/plain.svg?color=%23336791" />
   <img alt="mongodb" width="45" src="https://devicon-website.vercel.app/api/mongodb/plain.svg?color=%234FAA41" />
