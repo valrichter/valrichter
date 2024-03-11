@@ -16,7 +16,7 @@
   <img alt="go" width="45" src="https://devicon-website.vercel.app/api/go/plain.svg?color=%2300ACD7" />
   <img alt="rust" width="45" src="https://devicon-website.vercel.app/api/rust/plain.svg?color=%23FF6B00" />
 
-  <img alt="nextjs" width="45" src="https://devicon-website.vercel.app/api/nextjs/original.svg?color=%232F2F2F" />
+  <img alt="react" width="45" src="https://devicon-website.vercel.app/api/react/original.svg?color=%2361DAFB" />
   <img alt="spring" width="45" src="https://devicon-website.vercel.app/api/spring/plain.svg?color=%235FB832" />
 
   <img alt="postgresql" width="45" src="https://devicon-website.vercel.app/api/postgresql/plain.svg?color=%23336791" />
