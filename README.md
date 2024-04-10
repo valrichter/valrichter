@@ -7,7 +7,7 @@
 ### 👾 About me:  
 - 💼 I'm not working but I am looking for one  
 - 🌱 I’m currently learning **Java & Go**  
-- ⚡ I'm open to collaborating on **Node & Rust** proyects
+- ⚡ I'm open to collaborating on **Rust** proyects
 - 🎓 [All bachelor proyects](https://github.com/stars/valrichter/lists/projectos-de-la-carrera)
 
 ### 🛠️ Languages & Tools:
