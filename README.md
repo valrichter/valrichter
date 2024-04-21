@@ -33,3 +33,7 @@
   
   <img alt="linux" width="45" src="https://devicon-website.vercel.app/api/linux/plain.svg?color=%23777777" />
   </div>
+  
+  ---
+  
+  ![valrichter's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valrichter&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
