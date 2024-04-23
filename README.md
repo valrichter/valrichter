@@ -1,5 +1,3 @@
-<img width="186" align="right" alt="Github" src="https://media.npr.org/assets/img/2023/01/14/this-is-fine_sq-0bd6d8072e991dc4708be3668cd480ae7df18a11-s800-c85.jpg" />
-
 # 👋 Hi, I'm Valen
 ## 💻 Focused on Backend development 
 ## 🎯 First solve the problem, then write the code
@@ -10,31 +8,60 @@
 - ⚡ I'm open to collaborating on **Rust** proyects
 - 🎓 [All bachelor proyects](https://github.com/stars/valrichter/lists/projectos-de-la-carrera)
 
-### 🛠️ Languages & Tools:
-  <div>
-  <img alt="java" width="45" src="https://devicon-website.vercel.app/api/java/plain.svg?color=%23EA2D2E" />
-  <img alt="go" width="45" src="https://devicon-website.vercel.app/api/go/plain.svg?color=%2300ACD7" />
-  <img alt="rust" width="45" src="https://devicon-website.vercel.app/api/rust/plain.svg?color=%23FF6B00" />
+<h2 align="left">Hi 👋 I'm Valen</h2>
 
-  <img alt="spring" width="45" src="https://devicon-website.vercel.app/api/spring/plain.svg?color=%235FB832" />
-  <img alt="react" width="45" src="https://devicon-website.vercel.app/api/react/original.svg?color=%2361DAFB" />
-  
+###
 
-  <img alt="postgresql" width="45" src="https://devicon-website.vercel.app/api/postgresql/plain.svg?color=%23336791" />
-  <img alt="mongodb" width="45" src="https://devicon-website.vercel.app/api/mongodb/plain.svg?color=%234FAA41" />
-  <img alt="redis" width="45" src="https://devicon-website.vercel.app/api/redis/plain.svg?color=%23D82C20" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=valrichter&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=valrichter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=valrichter&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+</div>
 
-  <img alt="docker" width="45" src="https://devicon-website.vercel.app/api/docker/plain.svg?color=%23019BC6" />
-  <img alt="kubernetes" width="45" src="https://devicon-website.vercel.app/api/kubernetes/plain.svg?color=%23486BB3" />
-  
-  <img alt="aws" width="45" src="https://devicon-website.vercel.app/api/amazonwebservices/original.svg?color=%23F7A80D" />
-  
-  <img alt="git" width="45" src="https://devicon-website.vercel.app/api/git/plain.svg?color=%23F34F29" />
-  <img alt="github" width="45" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" />
-  
-  <img alt="linux" width="45" src="https://devicon-website.vercel.app/api/linux/plain.svg?color=%23777777" />
-  </div>
-  
-  ---
-  
-  ![valrichter's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valrichter&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
+###
+
+<img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2F1Y42Mgr57SUAAAAM%2Fthis-is-fine.gif&f=1&nofb=1&ipt=2c303e4a129339abbdcea88a1042f201d8a6b5c78a7c475426544b4a2c940146&ipo=images"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/rust/000000" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/valrichter/valrichter/output/snake.svg" alt="Snake animation" />
+
+###
