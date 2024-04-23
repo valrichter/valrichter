@@ -11,6 +11,14 @@
 
 <img alt="this is fine" align="right" height="130" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2F1Y42Mgr57SUAAAAM%2Fthis-is-fine.gif&f=1&nofb=1&ipt=2c303e4a129339abbdcea88a1042f201d8a6b5c78a7c475426544b4a2c940146&ipo=images" />
 
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/valrichter/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=valrichter&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=gray&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
 <div align="left">
   <img alt="react" width="40" src="https://cdn.simpleicons.org/react/61DAFB" />
   <img alt="java " width="40" src="https://devicon-website.vercel.app/api/java/plain.svg?color=%23EA2D2E" />
@@ -27,14 +35,6 @@
   <img alt="git" width="40" src="https://devicon-website.vercel.app/api/git/plain.svg?color=%23F34F29" />
   <img alt="github" width="40" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" />
   <img alt="linux" width="40" src="https://devicon-website.vercel.app/api/linux/plain.svg?color=%23FCC624" />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/valrichter/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=valrichter&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=gray&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
