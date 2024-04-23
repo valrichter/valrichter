@@ -34,8 +34,7 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/valrichter/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=valrichter&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=gray&style=for-the-badge" height="40" alt="linkedin"  />
-  </a>
-  <span style="margin-right: 5px;"></span>
+  </a><span style="margin-right: 5px;"></span>
   <a href="mailto:valenrichter11@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=valenrichter11@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=gray&style=for-the-badge" height="40" alt="gmail" />
   </a>
