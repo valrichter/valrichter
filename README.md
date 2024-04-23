@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm Valen, backend developer and CS student</h1>
+<h1 align="left">👋 I'm Valen, backend developer and CS student</h1>
 
 ## 🎯 First solve the problem, then write the code
 
