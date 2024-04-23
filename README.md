@@ -9,43 +9,24 @@
 - ⚡ I'm open to collaborating on **Rust** proyects
 - 🎓 [All bachelor proyects](https://github.com/stars/valrichter/lists/projectos-de-la-carrera)
 
-<img align="right" height="130" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2F1Y42Mgr57SUAAAAM%2Fthis-is-fine.gif&f=1&nofb=1&ipt=2c303e4a129339abbdcea88a1042f201d8a6b5c78a7c475426544b4a2c940146&ipo=images"  />
-
-###
+<img alt="this is fine" align="right" height="130" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2F1Y42Mgr57SUAAAAM%2Fthis-is-fine.gif&f=1&nofb=1&ipt=2c303e4a129339abbdcea88a1042f201d8a6b5c78a7c475426544b4a2c940146&ipo=images" />
 
 <div align="left">
-  <img alt="react logo" width="35" src="https://cdn.simpleicons.org/react/61DAFB" />
-  <img src="https://cdn.simpleicons.org/gin/00BFFF" height="35" alt="gin logo"/>
-  <img width="1" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" alt="javascript logo"  />
-  <img width="1" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="35" alt="typescript logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="35" alt="java logo"  />
-  <img width="1" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="35" alt="go logo"  />
-  <img width="1" />
-  <img src="https://cdn.simpleicons.org/rust/000000" height="35" alt="rust logo"  />
-  <img width="1" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="35" alt="spring logo"  />
-  <img width="1" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="35" alt="postgresql logo"  />
-  <img width="1" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="35" alt="mongodb logo"  />
-  <img width="1" />
-  <img src="https://cdn.simpleicons.org/redis/DC382D" height="35" alt="redis logo"  />
-  <img width="1" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="35" alt="docker logo"  />
-  <img width="1" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="35" alt="kubernetes logo"  />
-  <img width="1" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="35" alt="amazonwebservices logo"  />
-  <img width="1" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git logo"  />
-  <img width="1" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="35" alt="github logo"  />
-  <img width="1" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="35" alt="linux logo"  />
+  <img alt="react" width="35" src="https://cdn.simpleicons.org/react/61DAFB" />
+  <img alt="java " width="35" src="https://devicon-website.vercel.app/api/java/plain.svg?color=%23EA2D2E" />
+  <img alt="go" width="35" src="https://devicon-website.vercel.app/api/go/plain.svg?color=%2300ACD7" />
+  <img alt="rust" width="35" src="https://cdn.simpleicons.org/rust/FF6B00" />
+  <img alt="spring" width="34" src="https://cdn.simpleicons.org/spring/6DB33F" />
+  <img alt="gin" width="36" src="https://cdn.simpleicons.org/gin/008ECF" />
+  <img alt="postgresql" width="35" src="https://devicon-website.vercel.app/api/postgresql/plain.svg?color=%23336791" />
+  <img alt="mongodb" src="https://cdn.simpleicons.org/mongodb/47A248" width="35"   />
+  <img src="https://devicon-website.vercel.app/api/redis/plain.svg?color=%23D82C20"  width="35" alt="redis logo"  />
+  <img alt="docker" width="38" src="https://devicon-website.vercel.app/api/docker/plain.svg?color=%23019BC6" />
+  <img alt="kubernetes" width="36" src="https://devicon-website.vercel.app/api/kubernetes/plain.svg?color=%23486BB3" />
+  <img alt="aws" width="35"src="https://cdn.simpleicons.org/amazonaws/FF9900" />
+  <img alt="git" width="35" src="https://devicon-website.vercel.app/api/git/plain.svg?color=%23F34F29" />
+  <img alt="github" width="35" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" />
+  <img alt="linux" width="35" src="https://devicon-website.vercel.app/api/linux/plain.svg?color=%23FCC624" />
 </div>
 
 ###
