@@ -2,17 +2,20 @@
 
 ## 🎯 First solve the problem, then write the code
 
-### 👾 About me:  
+### 👾 About me
+
 - 💼 I'm not working but I am looking for one  
 - 🌱 I’m currently learning **Java & Go**  
 - ⚡ I'm open to collaborating on **Rust** proyects
 - 🎓 [All bachelor proyects](https://github.com/stars/valrichter/lists/projectos-de-la-carrera)
+
 <img align="right" height="130" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2F1Y42Mgr57SUAAAAM%2Fthis-is-fine.gif&f=1&nofb=1&ipt=2c303e4a129339abbdcea88a1042f201d8a6b5c78a7c475426544b4a2c940146&ipo=images"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="35" alt="react logo"  />
+  <img alt="react logo" width="35" src="https://cdn.simpleicons.org/react/61DAFB" />
+  <img src="https://cdn.simpleicons.org/gin/00BFFF" height="35" alt="gin logo"/>
   <img width="1" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" alt="javascript logo"  />
   <img width="1" />
