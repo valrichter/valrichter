@@ -20,8 +20,8 @@
   <img alt="gin" width="41" src="https://cdn.simpleicons.org/gin/008ECF" />
   <img alt="postgresql" width="40" src="https://devicon-website.vercel.app/api/postgresql/plain.svg?color=%23336791" />
   <img alt="mongodb" src="https://cdn.simpleicons.org/mongodb/47A248" width="40"   />
-  <img src="https://devicon-website.vercel.app/api/redis/plain.svg?color=%23D82C20"  width="40" alt="redis logo"  />
-  <img alt="docker" width="43" src="https://devicon-website.vercel.app/api/docker/plain.svg?color=%23019BC6" />
+  <img src="https://devicon-website.vercel.app/api/redis/plain.svg?color=%23D82C20"  width="38" alt="redis logo"  />
+  <img alt="docker" width="40" src="https://devicon-website.vercel.app/api/docker/plain.svg?color=%23019BC6" />
   <img alt="kubernetes" width="36" src="https://devicon-website.vercel.app/api/kubernetes/plain.svg?color=%23486BB3" />
   <img alt="aws" width="40"src="https://cdn.simpleicons.org/amazonaws/FF9900" />
   <img alt="git" width="40" src="https://devicon-website.vercel.app/api/git/plain.svg?color=%23F34F29" />
