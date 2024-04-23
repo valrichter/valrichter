@@ -8,44 +8,42 @@
 - ⚡ I'm open to collaborating on **Rust** proyects
 - 🎓 [All bachelor proyects](https://github.com/stars/valrichter/lists/projectos-de-la-carrera)
 
-###
-
-<img align="right" height="131" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2F1Y42Mgr57SUAAAAM%2Fthis-is-fine.gif&f=1&nofb=1&ipt=2c303e4a129339abbdcea88a1042f201d8a6b5c78a7c475426544b4a2c940146&ipo=images"  />
+<img align="right" height="135" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2F1Y42Mgr57SUAAAAM%2Fthis-is-fine.gif&f=1&nofb=1&ipt=2c303e4a129339abbdcea88a1042f201d8a6b5c78a7c475426544b4a2c940146&ipo=images"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="2" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="2" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"  />
-  <img width="2" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
-  <img width="2" />
-  <img src="https://cdn.simpleicons.org/rust/000000" height="40" alt="rust logo"  />
-  <img width="2" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
-  <img width="2" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
-  <img width="2" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="2" />
-  <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="redis logo"  />
-  <img width="2" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="2" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
-  <img width="2" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="amazonwebservices logo"  />
-  <img width="2" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="2" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
-  <img width="2" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="35" alt="react logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" alt="javascript logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="35" alt="typescript logo"  />
+  <img width="1" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="35" alt="java logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="35" alt="go logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/rust/000000" height="35" alt="rust logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="35" alt="spring logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="35" alt="postgresql logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="35" alt="mongodb logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/redis/DC382D" height="35" alt="redis logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="35" alt="docker logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="35" alt="kubernetes logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="35" alt="amazonwebservices logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="35" alt="github logo"  />
+  <img width="1" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="35" alt="linux logo"  />
 </div>
 
 ###
