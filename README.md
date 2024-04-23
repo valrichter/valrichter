@@ -10,8 +10,6 @@
 
 <img align="right" height="135" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2F1Y42Mgr57SUAAAAM%2Fthis-is-fine.gif&f=1&nofb=1&ipt=2c303e4a129339abbdcea88a1042f201d8a6b5c78a7c475426544b4a2c940146&ipo=images"  />
 
-<img align="right" height="135" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2F1Y42Mgr57SUAAAAM%2Fthis-is-fine.gif&f=1&nofb=1&ipt=2c303e4a129339abbdcea88a1042f201d8a6b5c78a7c475426544b4a2c940146&ipo=images"  />
-
 ###
 
 <div align="left">
