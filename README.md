@@ -22,8 +22,6 @@
   <img alt="mongodb" src="https://cdn.simpleicons.org/mongodb/47A248" width="40"   />
   <img alt="redis" width="38" src="https://devicon-website.vercel.app/api/redis/plain.svg?color=%23D82C20" />
   <img alt="docker" width="40" src="https://devicon-website.vercel.app/api/docker/plain.svg?color=%23019BC6" />
-  <img alt="kubernetes" width="36" src="https://devicon-website.vercel.app/api/kubernetes/plain.svg?color=%23486BB3" />
-  <img alt="aws" width="40"src="https://cdn.simpleicons.org/amazonaws/FF9900" />
   <img alt="git" width="40" src="https://devicon-website.vercel.app/api/git/plain.svg?color=%23F34F29" />
   <img alt="github" width="40" src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" />
   <img alt="linux" width="40" src="https://devicon-website.vercel.app/api/linux/plain.svg?color=%23FCC624" />
