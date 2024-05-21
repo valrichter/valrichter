@@ -1,10 +1,8 @@
 <h1 align="left">👋 I'm Valen, backend developer and CS student</h1>
 
-## 🎯 First solve the problem, then write the code
-
 ### 👾 About me
 
-- 💼 I'm not working but I am looking for one  
+- 🎯 First solve the problem, then write the code 
 - 🌱 I’m currently learning **Java & Go**  
 - ⚡ I'm open to collaborating on **Rust** proyects
 - 🎓 [All bachelor proyects](https://github.com/stars/valrichter/lists/projectos-de-la-carrera)
