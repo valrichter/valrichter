@@ -17,8 +17,8 @@
   <img alt="spring" width="39" src="https://cdn.simpleicons.org/spring/6DB33F" />
   <img alt="gin" width="41" src="https://cdn.simpleicons.org/gin/008ECF" />
   <img alt="postgresql" width="40" src="https://devicon-website.vercel.app/api/postgresql/plain.svg?color=%23336791" />
-  <img alt="mongodb" src="https://cdn.simpleicons.org/mongodb/47A248" width="40"   />
   <img alt="redis" width="38" src="https://devicon-website.vercel.app/api/redis/plain.svg?color=%23D82C20" />
+  <img alt="mongodb" src="https://cdn.simpleicons.org/mongodb/47A248" width="40" />
   <img alt="docker" width="40" src="https://devicon-website.vercel.app/api/docker/plain.svg?color=%23019BC6" />
   <img alt="git" width="40" src="https://devicon-website.vercel.app/api/git/plain.svg?color=%23F34F29" />
   <img alt="githubactions" width="40" src="https://cdn.simpleicons.org/githubactions/FFFFFF" />
