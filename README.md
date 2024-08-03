@@ -1,4 +1,5 @@
-<h1 align="left">👋 I'm Valen, backend developer and CS student</h1>
+<h2 align="center"> Hi, I'm Valen <br>
+Software Developer </h2>
 
 ### 👾 About me
 
