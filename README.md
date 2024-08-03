@@ -1,5 +1,4 @@
-<h2 align="center"> Hi, I'm Valen <br>
-Software Developer </h2>
+## 👋 I'm Valen, Software Backend Developer
 
 ### 👾 About me
 
