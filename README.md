@@ -15,7 +15,6 @@
   <img alt="c#" width="40" src="https://devicon-website.vercel.app/api/csharp/line.svg?color=%2368217A" />
   <img alt="go" width="40" src="https://devicon-website.vercel.app/api/go/plain.svg?color=%2300ACD7" />
   <img alt="spring" width="39" src="https://cdn.simpleicons.org/spring/6DB33F" />
-  <img alt="net" width="40" src="https://devicon-website.vercel.app/api/dotnetcore/plain.svg?color=%23623697"></img>
   <img alt="postgresql" width="40" src="https://devicon-website.vercel.app/api/postgresql/plain.svg?color=%23336791" />
   <img alt="redis" width="38" src="https://devicon-website.vercel.app/api/redis/plain.svg?color=%23D82C20" />
   <img alt="mongodb" src="https://cdn.simpleicons.org/mongodb/47A248" width="40" />
