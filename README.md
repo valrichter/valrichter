@@ -1,17 +1,22 @@
-## 👋 I'm Valen, Software Backend Developer
+<h2>👋 I'm Valen, Software Backend Developer 
+  <a href="https://www.linkedin.com/in/valrichter/" target="_blank">
+    <img align="right" src="https://img.shields.io/static/v1?message=valrichter&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=gray&style=for-the-badge" height="40" alt="linkedin"  />
+  </a> 
+</h2>
 
 <img align="right" width="240" src="https://github.com/user-attachments/assets/fe04fce5-7a97-484e-a992-27c69cf14011" />
 
-<div align="left">
-  <h3> 👾 About me </h3>
+<div>
+  <div align="left">
+    <h3>👾 About me</h3>
+      <ul>
+        <li>🎯 First solve the problem, then write the code
+        <li>🌱 I’m currently learning <strong>Java & Go</strong></li>
+        <li>⚡ I'm open to collaborating on <strong>C#</strong> projects</li>
+        <li>🎓 <a href="https://github.com/stars/valrichter/lists/projectos-de-la-carrera">Bachelor Projects</a></li>
+      </ul>
+  </div>
   
-  - 🎯 First solve the problem, then write the code 
-  - 🌱 I’m currently learning **Java & Go**  
-  - ⚡ I'm open to collaborating on **C#** proyects
-  - 🎓 [Bachelor Proyects](https://github.com/stars/valrichter/lists/projectos-de-la-carrera)
-  <!--
-  <img alt="this is fine" align="right" height="120" width="130" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2F1Y42Mgr57SUAAAAM%2Fthis-is-fine.gif&f=1&nofb=1&ipt=2c303e4a129339abbdcea88a1042f201d8a6b5c78a7c475426544b4a2c940146&ipo=images" />
-  -->
   <div>
     <img alt="react" width="40" src="https://cdn.simpleicons.org/react/61DAFB" />
     <img alt="java " width="40" src="https://devicon-website.vercel.app/api/java/plain.svg?color=%23EA2D2E" />
@@ -27,14 +32,8 @@
     <img alt="linux" width="40" src="https://devicon-website.vercel.app/api/linux/plain.svg?color=%23FCC624" />
     <img alt="aws" width="40" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" />
   </div>
-
-  ###
+  <p>
   
-  <div>
-    <a href="https://www.linkedin.com/in/valrichter/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=valrichter&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=gray&style=for-the-badge" height="40" alt="linkedin"  />
-    </a>
-  </div>
 </div>
 
 ###
@@ -43,3 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=valrichter&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight&locale=en&hide_border=true&order=1" height="204" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=valrichter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&hide=html,jupyter%20notebook,PLpgSQL,makefile,css,dockerfile,shell&theme=tokyonight&hide_border=true&order=2" height="204" alt="languages graph"  />
 </div>
+
+  <!--
+  <img alt="this is fine" align="right" height="120" width="130" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2F1Y42Mgr57SUAAAAM%2Fthis-is-fine.gif&f=1&nofb=1&ipt=2c303e4a129339abbdcea88a1042f201d8a6b5c78a7c475426544b4a2c940146&ipo=images" />
+  -->
