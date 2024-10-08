@@ -28,7 +28,7 @@
     <img alt="docker" width="40" src="https://devicon-website.vercel.app/api/docker/plain.svg?color=%23019BC6" />
     <img alt="kubernetes" width="40" src="https://cdn.simpleicons.org/kubernetes/486BB3" />
     <img alt="git" width="40" src="https://devicon-website.vercel.app/api/git/plain.svg?color=%23F34F29" />
-    <img alt="githubactions" width="40" src="https://cdn.simpleicons.org/githubactions/FFFFFF" />
+    <img alt="github" width="40" src="https://cdn.simpleicons.org/github/FFFFFF" />
     <img alt="linux" width="40" src="https://devicon-website.vercel.app/api/linux/plain.svg?color=%23FCC624" />
     <img alt="aws" width="40" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" />
   </div>
