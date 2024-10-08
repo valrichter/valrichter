@@ -9,7 +9,7 @@
 <!--
 <img alt="this is fine" align="right" height="120" width="130" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2F1Y42Mgr57SUAAAAM%2Fthis-is-fine.gif&f=1&nofb=1&ipt=2c303e4a129339abbdcea88a1042f201d8a6b5c78a7c475426544b4a2c940146&ipo=images" />
 -->
-<img align="right" width="140" src="https://github.com/user-attachments/assets/fe04fce5-7a97-484e-a992-27c69cf14011" />
+<img align="right" width="130" src="https://github.com/user-attachments/assets/fe04fce5-7a97-484e-a992-27c69cf14011" />
 
 <div align="left">
   <img alt="react" width="40" src="https://cdn.simpleicons.org/react/61DAFB" />
