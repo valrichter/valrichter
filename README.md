@@ -32,8 +32,6 @@
     <img alt="linux" width="40" src="https://devicon-website.vercel.app/api/linux/plain.svg?color=%23FCC624" />
     <img alt="aws" width="40" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" />
   </div>
-  <p>
-  
 </div>
 
 ###
