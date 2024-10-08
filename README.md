@@ -26,9 +26,10 @@
     <img alt="githubactions" width="40" src="https://cdn.simpleicons.org/githubactions/FFFFFF" />
     <img alt="linux" width="40" src="https://devicon-website.vercel.app/api/linux/plain.svg?color=%23FCC624" />
     <img alt="aws" width="40" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" />
-    
   </div>
-<br>
+
+  ###
+  
   <div>
     <a href="https://www.linkedin.com/in/valrichter/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=valrichter&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=gray&style=for-the-badge" height="40" alt="linkedin"  />
