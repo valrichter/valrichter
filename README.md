@@ -1,9 +1,9 @@
 ## 👋 I'm Valen, Software Backend Developer
 
-<img align="right" width="230" src="https://github.com/user-attachments/assets/fe04fce5-7a97-484e-a992-27c69cf14011" />
+<img align="right" width="235" src="https://github.com/user-attachments/assets/fe04fce5-7a97-484e-a992-27c69cf14011" />
 
 <div align="left">
-  ### 👾 About me
+  <h3> 👾 About me </h3>
   
   - 🎯 First solve the problem, then write the code 
   - 🌱 I’m currently learning **Java & Go**  
