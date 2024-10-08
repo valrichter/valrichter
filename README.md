@@ -1,6 +1,6 @@
 <h2>👋 I'm Valen, Software Backend Developer 
   <a href="https://www.linkedin.com/in/valrichter/" target="_blank">
-    <img align="center" src="https://img.shields.io/static/v1?message=valrichter&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=gray&style=for-the-badge" height="30" alt="linkedin"  />
+    <img align="right" src="https://img.shields.io/static/v1?message=valrichter&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=gray&style=for-the-badge" height="30" alt="linkedin"  />
   </a> 
 </h2>
 
