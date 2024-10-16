@@ -19,8 +19,8 @@
   
   <div>
     <img alt="react" width="40" src="https://cdn.simpleicons.org/react/61DAFB" />
+    <img alt="go" width="40" src="https://cdn.simpleicons.org/go/00ADD8" />
     <img alt="java " width="40" src="https://devicon-website.vercel.app/api/java/plain.svg?color=%23EA2D2E" />
-    <img alt="go" width="40" src="https://devicon-website.vercel.app/api/go/plain.svg?color=%2300ACD7" />
     <img alt="spring" width="39" src="https://cdn.simpleicons.org/spring/6DB33F" />
     <img alt="postgresql" width="40" src="https://devicon-website.vercel.app/api/postgresql/plain.svg?color=%23336791" />
     <img alt="redis" width="38" src="https://devicon-website.vercel.app/api/redis/plain.svg?color=%23D82C20" />
