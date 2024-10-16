@@ -22,13 +22,14 @@
     <img alt="go" width="40" src="https://cdn.simpleicons.org/go/00ADD8" />
     <img alt="java " width="40" src="https://devicon-website.vercel.app/api/java/plain.svg?color=%23EA2D2E" />
     <img alt="spring" width="39" src="https://cdn.simpleicons.org/spring/6DB33F" />
-    <img alt="postgresql" width="40" src="https://devicon-website.vercel.app/api/postgresql/plain.svg?color=%23336791" />
-    <img alt="redis" width="38" src="https://devicon-website.vercel.app/api/redis/plain.svg?color=%23D82C20" />
-    <img alt="mongodb" width="40" src="https://cdn.simpleicons.org/mongodb/47A248" />
+    <img alt="postgresql" width="40" src="https://cdn.simpleicons.org/postgresql/4169E1" />
+    <img alt="redis" width="38" src="https://cdn.simpleicons.org/redis/FF4438" />
+    <img alt="mongodb" width="40" src="https://cdn.simpleicons.org/mongodb/47A248" /> 
     <img alt="docker" width="40" src="https://cdn.simpleicons.org/docker/2496ED" />
     <img alt="kubernetes" width="40" src="https://cdn.simpleicons.org/kubernetes/486BB3" />
+    <img alt="kafka" width="40" src="https://cdn.simpleicons.org/apachekafka/9B9B9B" />
     <img alt="git" width="40" src="https://cdn.simpleicons.org/git/F05032" />
-    <img alt="github" width="40" src="https://cdn.simpleicons.org/github/FFFFFF" />
+    <img alt="github" width="40" src="https://cdn.simpleicons.org/githubactions/2088FF" />
     <img alt="linux" width="40" src="https://cdn.simpleicons.org/linux/FCC624" />
     <img alt="aws" width="40" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" />
   </div>
