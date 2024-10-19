@@ -23,7 +23,7 @@
     <img alt="java " width="40" src="https://devicon-website.vercel.app/api/java/plain.svg?color=%23EA2D2E" />
     <img alt="spring" width="39" src="https://cdn.simpleicons.org/spring/6DB33F" />
     <img alt="postgresql" width="40" src="https://cdn.simpleicons.org/postgresql/4169E1" />
-    <img alt="redis" width="38" src="https://cdn.simpleicons.org/redis/FF4438" />
+    <img alt="redis" width="39" src="https://devicon-website.vercel.app/api/redis/plain.svg?color=%23D82C20" />
     <img alt="mongodb" width="40" src="https://cdn.simpleicons.org/mongodb/47A248" /> 
     <img alt="docker" width="40" src="https://cdn.simpleicons.org/docker/2496ED" />
     <img alt="kubernetes" width="40" src="https://cdn.simpleicons.org/kubernetes/486BB3" />
