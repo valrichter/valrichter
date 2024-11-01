@@ -25,6 +25,8 @@
     <img alt="redis" width="39" src="https://devicon-website.vercel.app/api/redis/plain.svg?color=%23D82C20" />
     <img alt="mongodb" width="40" src="https://cdn.simpleicons.org/mongodb/47A248" /> 
     <img alt="docker" width="40" src="https://cdn.simpleicons.org/docker/2496ED" />
+    <img alt="kubernetes" width="40" src="https://cdn.simpleicons.org/kubernetes/326CE5" />
+    <img alt="kafka" width="40" src="https://cdn.simpleicons.org/apachekafka/506365" />
     <img alt="git" width="40" src="https://cdn.simpleicons.org/git/F05032" />
     <img alt="github" width="40" src="https://cdn.simpleicons.org/githubactions/2088FF" />
     <img alt="linux" width="40" src="https://cdn.simpleicons.org/linux/FCC624" />
