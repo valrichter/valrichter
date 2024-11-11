@@ -12,7 +12,7 @@
       <ul>
         <li>🎯 First solve the problem, then write the code
         <li>🌱 I’m currently learning <strong>Java & Go</strong></li>
-        <li>⚡ Working at <strong>Hiberus</strong> projects</li>
+        <li>⚡ Working at <strong>Hiberus</strong> </li>
         <li>🎓 <a href="https://github.com/stars/valrichter/lists/projectos-de-la-carrera">All Bachelor Projects</a></li>
       </ul>
   </div>
