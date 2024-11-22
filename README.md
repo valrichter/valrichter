@@ -18,6 +18,7 @@
   </div>
   
   <div>
+    <img alt="react" width="40" src="https://cdn.simpleicons.org/react/61DAFB" />
     <img alt="go" width="40" src="https://cdn.simpleicons.org/go/00ADD8" />
     <img alt="java " width="40" src="https://devicon-website.vercel.app/api/java/plain.svg?color=%23EA2D2E" />
     <img alt="spring" width="40" src="https://cdn.simpleicons.org/spring/6DB33F" />
