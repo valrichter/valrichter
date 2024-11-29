@@ -11,9 +11,9 @@
     <h3>👾 About me</h3>
       <ul>
         <li>🎯 First solve the problem, then write the code
-        <li>🌱 I’m currently learning <strong>Java & Go</strong></li>
-        <li>⚡ Working at <strong></strong> </li>
-        <li>🎓 <a href="https://github.com/stars/valrichter/lists/projectos-de-la-carrera">All Bachelor Projects</a></li>
+        <li>🌱 I’m currently learning <strong>Java & Go</strong>
+        <li>⚡ Working at <strong>Hiberus</strong>
+        <li>🎓 <a href="https://github.com/stars/valrichter/lists/projectos-de-la-carrera">All Bachelor Projects</a>
       </ul>
   </div>
   
