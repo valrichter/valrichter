@@ -31,8 +31,6 @@
     <img alt="elasticsearch" width="40" src="https://cdn.simpleicons.org/elasticsearch/005571" />
     <img alt="logstash" width="40" src="https://cdn.simpleicons.org/logstash/005571" />
     <img alt="kibana" width="40" src="https://cdn.simpleicons.org/kibana/005571" />
-    <img alt="git" width="40" src="https://cdn.simpleicons.org/git/F05032" />
-    <img alt="linux" width="40" src="https://cdn.simpleicons.org/linux/FCC624" />
     <img alt="aws" width="40" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" />
   </div>
 </div>
