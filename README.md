@@ -18,7 +18,6 @@
   </div>
   
   <div>
-    <img alt="react" width="40" src="https://cdn.simpleicons.org/react/61DAFB" />
     <img alt="go" width="40" src="https://cdn.simpleicons.org/go/00ADD8" />
     <img alt="java " width="40" src="https://devicon-website.vercel.app/api/java/plain.svg?color=%23EA2D2E" />
     <img alt="spring" width="40" src="https://cdn.simpleicons.org/spring/6DB33F" />
@@ -27,6 +26,11 @@
     <img alt="mongodb" width="40" src="https://cdn.simpleicons.org/mongodb/47A248" /> 
     <img alt="docker" width="40" src="https://cdn.simpleicons.org/docker/2496ED" />
     <img alt="kafka" width="40" src="https://cdn.simpleicons.org/apachekafka/506365" />
+    <img alt="prometheus" width="40" src="https://cdn.simpleicons.org/prometheus/E6522C" />
+    <img alt="grafana" width="40" src="https://cdn.simpleicons.org/grafana/F46800" />
+    <img alt="elasticsearch" width="40" src="https://cdn.simpleicons.org/elasticsearch/005571" />
+    <img alt="logstash" width="40" src="https://cdn.simpleicons.org/logstash/005571" />
+    <img alt="kibana" width="40" src="https://cdn.simpleicons.org/kibana/005571" />
     <img alt="git" width="40" src="https://cdn.simpleicons.org/git/F05032" />
     <img alt="linux" width="40" src="https://cdn.simpleicons.org/linux/FCC624" />
     <img alt="aws" width="40" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" />
