@@ -23,11 +23,11 @@
     <img alt="spring" width="40" src="https://cdn.simpleicons.org/spring/6DB33F" />
     <img alt="postgresql" width="40" src="https://cdn.simpleicons.org/postgresql/4169E1" />
     <img alt="redis" width="40" src="https://devicon-website.vercel.app/api/redis/plain.svg?color=%23D82C20" />
-    <img alt="docker" width="40" src="https://cdn.simpleicons.org/docker/2496ED" />
     <img alt="kafka" width="40" src="https://cdn.simpleicons.org/apachekafka/506365" />
+    <img alt="elasticstack" width="40" src="https://cdn.simpleicons.org/elasticstack/005571" />
     <img alt="prometheus" width="40" src="https://cdn.simpleicons.org/prometheus/E6522C" />
     <img alt="grafana" width="40" src="https://cdn.simpleicons.org/grafana/F46800" />
-    <img alt="elasticstack" width="40" src="https://cdn.simpleicons.org/elasticstack/005571" />
+    <img alt="docker" width="40" src="https://cdn.simpleicons.org/docker/2496ED" />
     <img alt="aws" width="40" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" />
   </div>
 </div>
