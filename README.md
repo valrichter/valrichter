@@ -26,10 +26,10 @@
     <img alt="redis" width="40" src="https://cdn.simpleicons.org/redis/FF4438" />
     <img alt="kafka" width="40" src="https://cdn.simpleicons.org/apachekafka/506365" />
     <img alt="docker" width="40" src="https://cdn.simpleicons.org/docker/2496ED" />
-    <img alt="aws" width="40" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" />
-    <img alt="prometheus" width="40" src="https://cdn.simpleicons.org/prometheus/E6522C" />
     <img alt="grafana" width="40" src="https://cdn.simpleicons.org/grafana/F46800" />
+    <img alt="prometheus" width="40" src="https://cdn.simpleicons.org/prometheus/E6522C" />
     <img alt="elasticstack" width="40" src="https://cdn.simpleicons.org/elasticstack/005571" />
+    <img alt="aws" width="40" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" />
   </div>
 </div>
 
