@@ -24,7 +24,7 @@
     <img alt="postgresql" width="40" src="https://cdn.simpleicons.org/postgresql/4169E1" />
     <img alt="mongodb" width="40" src="https://cdn.simpleicons.org/mongodb/47A248" />
     <img alt="redis" width="40" src="https://cdn.simpleicons.org/redis" />
-    <img alt="kafka" width="40" src="https://cdn.simpleicons.org/apachekafka/506365" />
+    <img alt="kafka" width="40" src="https://cdn.simpleicons.org/apachekafka" />
     <img alt="docker" width="40" src="https://cdn.simpleicons.org/docker/2496ED" />
     <img alt="aws" width="40" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" />
     <img alt="grafana" width="40" src="https://cdn.simpleicons.org/grafana/F46800" />
