@@ -4,7 +4,7 @@
   </a> 
 </h2>
 
-<img align="right" width="190" src="https://github.com/user-attachments/assets/fe04fce5-7a97-484e-a992-27c69cf14011" />
+<img align="right" width="200" src="https://github.com/user-attachments/assets/fe04fce5-7a97-484e-a992-27c69cf14011" />
 
 <div>
   <div align="left">
@@ -14,7 +14,6 @@
         <li>🌱 I’m currently learning <strong>Java & Go</strong>
         <li>⚡ Working at <strong>Hiberus</strong>
         <li>🎓 <a href="https://github.com/stars/valrichter/lists/bachelor-projects">Some Bachelor Projects</a>
-        <li>⚙️ Go, Java, Spring, PostgreSQL, MongoDB, Redis, Kafka, Docker, AWS, Grafana, Prometheus, Kibana</a>
       </ul>
   </div>
   
