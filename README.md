@@ -14,6 +14,7 @@
         <li>🌱 I’m currently learning <strong>Java & Go</strong>
         <li>⚡ Working at <strong>Hiberus</strong>
         <li>🎓 <a href="https://github.com/stars/valrichter/lists/bachelor-projects">Some Bachelor Projects</a>
+        <li>⚙️ Go, Java, Spring, PostgreSQL, MongoDB, Redis, Kafka, Docker, AWS, Grafana, Prometheus, Kibana</a>
       </ul>
   </div>
   
@@ -29,7 +30,7 @@
     <img alt="aws" width="40" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" />
     <img alt="grafana" width="40" src="https://cdn.simpleicons.org/grafana/F46800" />
     <img alt="prometheus" width="40" src="https://cdn.simpleicons.org/prometheus/E6522C" />
-    <img alt="elasticstack" width="40" src="https://cdn.simpleicons.org/elasticstack/005571" />
+    <img alt="elasticstack" width="40" src="https://cdn.simpleicons.org/kibana" />
   </div>
 </div>
 
