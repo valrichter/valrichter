@@ -26,16 +26,15 @@
     <img alt="redis" width="40" src="https://devicon-website.vercel.app/api/redis/plain.svg?color=%23D82C20" />
     <img alt="kafka" width="40" src="https://cdn.simpleicons.org/apachekafka/506360" />
     <img alt="docker" width="40" src="https://cdn.simpleicons.org/docker/2496ED" />
-    <img alt="aws" width="40" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" />
     <img alt="grafana" width="40" src="https://cdn.simpleicons.org/grafana/F46800" />
     <img alt="prometheus" width="40" src="https://cdn.simpleicons.org/prometheus/E6522C" />
-    <img alt="elasticstack" width="40" src="https://cdn.simpleicons.org/kibana" />
+    <img alt="kibana" width="40" src="https://cdn.simpleicons.org/kibana" />
   </div>
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=valrichter&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight&locale=en&hide_border=flase&order=1" height="190" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=valrichter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&hide=html,jupyter%20notebook,PLpgSQL,makefile,css,csharp,shell,powershell,dockerfile&theme=tokyonight&hide_border=false&order=2" height="190" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=valrichter&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=valrichter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&hide=html,jupyter%20notebook,PLpgSQL,makefile,css,csharp,shell,powershell,dockerfile&theme=tokyonight&hide_border=true&order=2" alt="languages graph"  />
 </div>
