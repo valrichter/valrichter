@@ -13,7 +13,7 @@
         <li>🎯 First solve the problem, then write the code
         <li>🌱 I’m currently learning <strong>Java & Go</strong>
         <li>⚡ Working at <strong>Hiberus</strong>
-        <li>🎓 <a href="https://github.com/stars/valrichter/lists/bachelor-projects">Some Bachelor's degree Projects</a>
+        <li>🎓 <a href="https://github.com/stars/valrichter/lists/bachelor-projects">Some Bachelor's Degree Projects</a>
       </ul>
   </div>
   
