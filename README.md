@@ -18,17 +18,19 @@
   </div>
   
   <div>
-    <img alt="go" width="40" src="https://cdn.simpleicons.org/go/00ADD8" />
-    <img alt="java " width="40" src="https://devicon-website.vercel.app/api/java/plain.svg?color=%23EA2D2E" />
-    <img alt="spring" width="40" src="https://cdn.simpleicons.org/spring/6DB33F" />
+    <img alt="go" width="40" src="https://cdn.simpleicons.org/go" />
+    <img alt="java " width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
+    <img alt="spring" width="40" src="https://cdn.simpleicons.org/spring" />
     <img alt="postgresql" width="40" src="https://cdn.simpleicons.org/postgresql/4169E1" />
     <img alt="mongodb" width="40" src="https://cdn.simpleicons.org/mongodb/47A248" />
     <img alt="redis" width="40" src="https://devicon-website.vercel.app/api/redis/plain.svg?color=%23D82C20" />
     <img alt="kafka" width="40" src="https://cdn.simpleicons.org/apachekafka/506360" />
-    <img alt="docker" width="40" src="https://cdn.simpleicons.org/docker/2496ED" />
-    <img alt="grafana" width="40" src="https://cdn.simpleicons.org/grafana/F46800" />
-    <img alt="prometheus" width="40" src="https://cdn.simpleicons.org/prometheus/E6522C" />
+    <img alt="docker" width="40" src="https://cdn.simpleicons.org/docker" />
+    <img alt="grafana" width="40" src="https://cdn.simpleicons.org/grafana" />
+    <img alt="prometheus" width="40" src="https://cdn.simpleicons.org/prometheus" />
     <img alt="kibana" width="40" src="https://cdn.simpleicons.org/kibana" />
+    <img alt="linux" width="40" src="https://cdn.simpleicons.org/linux" />
+    <img alt="aws" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   </div>
 </div>
 
