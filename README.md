@@ -27,7 +27,6 @@
     <img alt="kafka" width="40" src="https://cdn.simpleicons.org/apachekafka/506360" />
     <img alt="docker" width="40" src="https://cdn.simpleicons.org/docker" />
     <img alt="grafana" width="40" src="https://cdn.simpleicons.org/grafana" />
-    <img alt="prometheus" width="40" src="https://cdn.simpleicons.org/prometheus" />
     <img alt="kibana" width="40" src="https://cdn.simpleicons.org/kibana" />
     <img alt="linux" width="40" src="https://cdn.simpleicons.org/linux" />
     <img alt="aws" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
