@@ -18,6 +18,7 @@
   </div>
   
   <div>
+    <img alt="rust" width="40" src="https://cdn.simpleicons.org/rust/B7410E" />
     <img alt="go" width="40" src="https://cdn.simpleicons.org/go" />
     <img alt="java " width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
     <img alt="spring" width="40" src="https://cdn.simpleicons.org/spring" />
