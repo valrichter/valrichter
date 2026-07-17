@@ -32,10 +32,3 @@
     <img alt="aws" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   </div>
 </div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=valrichter&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="165" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=valrichter&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&hide=html,jupyter%20notebook,PLpgSQL,makefile,css,csharp,shell,powershell,dockerfile&theme=tokyonight&hide_border=true&order=2" alt="languages graph"  />
-</div>
